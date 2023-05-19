@@ -1,2 +1,2 @@
 # express-forgetmenotes
- express, mssql, and sqlite
+ express, mssql, sqlite
